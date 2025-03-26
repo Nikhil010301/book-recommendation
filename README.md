@@ -8,3 +8,6 @@ This project is an intelligent Book Recommendation System built with Python (Fla
 
 Users interact with the system by viewing, clicking, favoriting, or purchasing books. These interactions are stored and used to train a machine learning model (XGBoost) that predicts and recommends books tailored to each user’s preferences.
 
+---
+
+### ✨ Made with ❤️ by Nikhil Tammina
